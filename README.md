@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash06112002&show_icons=true&locale=en" alt="yash06112002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06112002&" alt="yash06112002" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash06112002&layout=compact)](https://github.com/yash06112002/github-readme-stats)
