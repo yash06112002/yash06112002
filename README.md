@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kansara</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [My Food Cart](whatsapp-group-chat-dj3mrdjn0-yash06112002.vercel.app)
+- 🔭 I’m currently working on [My Food Cart](https://my-food-cart.vercel.app/)
 
 - 🌱 I’m currently learning **React, Firebase**
 
