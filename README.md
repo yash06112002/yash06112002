@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashkansara0611@gmail.com**
 
-- 📄 Know about my experiences[ Resume](https://drive.google.com/drive/folders/1a5lEC8HzmxTgLfSpawTmFGfFrKBA6Ogk?usp=sharing)
+- 📄 Know about my experiences[ Resume]([https://drive.google.com/drive/folders/1a5lEC8HzmxTgLfSpawTmFGfFrKBA6Ogk?usp=sharing](https://drive.google.com/file/d/1u9ilRWhqnzYDDbfbkfZ4fp_REbDfb00g/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
